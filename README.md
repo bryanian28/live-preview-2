@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Git clone [live-preview-1](https://github.com/bryanian28/live-preview-1)
+
+Run live-preview-1 (localhost:3000) and live-preview2 (localhost:3001) 
+
 ## Available Scripts
 
 In the project directory, you can run:
